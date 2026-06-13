@@ -2,7 +2,7 @@
 
 **Effective Date:** 12.06.2026
 
-**🇹🇷 [Click here for the Turkish version of this text.](https://github.com/Splash5756/KebapBot-TermOfServices/blob/main/ToS-TR.md)**
+🇹🇷 **[Click here for the Turkish version of this text.](https://github.com/Splash5756/KebapBot-TermOfServices/blob/main/ToS-TR.md)**
 
 The Kebap Discord Bot Terms of Service and User Conditions (**“TERMS”**) regulate the terms and conditions for the use of the services offered by the developer team, as well as the rights and obligations of the parties, in accordance with the **Discord Developer Terms of Service** and platform regulations.
 
@@ -22,6 +22,7 @@ Users and server administrators are obliged to comply with the following rules w
 
 * Not to engage in actions that may harm the infrastructure, API services, or automation systems of Kebap Bot (including but not limited to DDoS attacks, reverse engineering, malicious use of source code, or spamming commands).
 * Not to use Kebap Bot for the purpose of distributing, storing, or concealing content that violates the Discord Community Guidelines, public morality, public order, or applicable legal legislation.
+* **Server Administrators' Obligation to Inform:** Server owners and administrators who invite Kebap Bot to their servers are obliged to inform their server members that the bot processes message contents and user data within the scope of cybersecurity (*Anti-Scam*) and support ticket processes. Accordingly, administrators agree to permanently display the Privacy Policy (PP) and Terms of Service (ToS) links of Kebap Bot in their "Rules" channel or any other publicly visible (*public*) area. Otherwise, any legal liabilities that may arise shall belong entirely to the respective server administration.
 
 ---
 
@@ -46,7 +47,7 @@ Kebap Bot is provided on an "as-is" and "as-available" basis within technical an
 ### 5. Termination of Service and Amendments
 
 * The management of Kebap Bot reserves the right to permanently restrict access (*Blacklist*) to Kebap Bot for specific users or servers without prior notice in the event that these Terms or Discord regulations are found to be violated.
-* The developer team reserves the right to unilaterally update these Terms of Service without prior notice. Updated terms shall become effective upon the date of publication.
+* The developer team reserves the right to **unilaterally update, amend, or modify these Terms of Service at any time without prior notice to the users.** Updated terms shall become effective immediately upon their publication. The continued use of the bot by the User constitutes acceptance of the revised terms. It is the User's sole responsibility to monitor the most current version of these Terms.
 
 ---
 
@@ -54,7 +55,7 @@ Kebap Bot is provided on an "as-is" and "as-available" basis within technical an
 
 For any technical support requests, violation reports, false positive appeal requests, and disputes arising from the implementation of this agreement, the official communication channels are as follows:
 
-* **E-Mail:** [dcsplash1070@gmail.com](https://www.google.com/search?q=mailto%3Adcsplash1070%40gmail.com)
+* **E-Mail:** [dcsplash1070@gmail.com](mailto:dcsplash1070@gmail.com)
 * **Support Server:** [https://discord.gg/8scn7QV3Nb](https://discord.gg/8scn7QV3Nb)
 
 ---
